@@ -25,7 +25,7 @@ lucide.createIcons();
         function openMap() {
 
             window.open(
-                `https://ul.waze.com/ul?from=place.w.176619665.1766524334.41611449&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location`,
+                `https://waze.com/ul/h9fxdtxqqt`,
                 '_blank'
             );
 
